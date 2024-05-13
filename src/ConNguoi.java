@@ -1,5 +1,6 @@
 import java.util.Objects;
 
+
 public class ConNguoi {
     protected String ten;
     protected int tuoi;
